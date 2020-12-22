@@ -7,5 +7,5 @@ function criarConta(string $cpf, string $nomeTitular, float $saldo):array
             'saldo' => $saldo,
 
         ]
-    ]
+        ];
 }

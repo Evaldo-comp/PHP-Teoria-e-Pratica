@@ -1,5 +1,5 @@
 <?php
 
 $primeiraConta = new Conta();
-$primeiraConta -> saldo = 100;
+$primeiraConta ->$this->sacar(30);
 echo $primeiraConta->saldo;
